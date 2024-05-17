@@ -1,9 +1,8 @@
 ---
 date: '4'
 title: 'Build a Synthetic Asset Management Platform on Bitcoin and Stacks'
-cover: './course-card.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+cover: './InfinityStacks.jpeg'
+external: 'https://github.com/abhaydee/InfinityStack'
 tech:
   - NextJS
   - Stacks
