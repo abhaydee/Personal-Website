@@ -135,13 +135,14 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Abhay and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hey there! I’m Abhay Deshpande, a Full Stack Developer with a strong passion for both
+              Web2 and Web3 technologies. I was the lead developer for Primobots, a renowned 3D NFT
+              project that truly pushed the boundaries of digital art. Working on Primobots allowed
+              me to blend my skills in front-end and back-end development, creating a unique and
+              innovative experience.
             </p>
 
-            <p>
+            {/* <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
               <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
               <a href="https://starry.com/">a start-up</a>,{' '}
@@ -150,15 +151,20 @@ const About = () => {
               main focus these days is building accessible, inclusive products and digital
               experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
               clients.
-            </p>
-
+            </p> */}
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              Since 2022, I’ve been on a winning streak, taking home multiple hackathon victories.
+              One of my proudest moments was being a top finalist at the Dubai Decipher event in
+              2022, where I demonstrated my ability to create complex design systems and
+              cutting-edge solutions. These experiences have sharpened my skills and deepened my
+              love for tackling challenging projects.
+            </p>
+            <p>
+              I’m passionate about diving into intricate design challenges and constantly pushing
+              myself to learn and innovate. Whether it’s building seamless user interfaces, robust
+              backend systems, or exploring the latest in blockchain tech, I’m always excited for
+              the next big challenge. Let’s connect and see how we can create something amazing
+              together!
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
