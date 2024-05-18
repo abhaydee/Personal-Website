@@ -1,14 +1,14 @@
 ---
 date: '2'
-title: 'Primobots 3D NFT'
-cover: './primobots.png'
-external: 'https://primobots.io/'
+title: 'PolkoWars'
+cover: './pokowars.png'
+external: 'https://github.com/abhaydee/PokoWars'
 tech:
-  - JS
-  - Styled-Components
-  - Ethersjs
-  - React
-  - Vercel
+  - React,Tailwind
+  - Solidity
+  - Arbitrum Goerli,
+  - Scoll Zkevm
+  - IPFS (Decentralized Storage)
 ---
 
-Primobots.io is a project creating a collection of 5,555 unique digital avatars, called Primobots, built on the Ethereum blockchain. These 3D NFTs are designed for use in the metaverse, gaming, and augmented reality. Ownership of a Primobots NFT also grants membership access to exclusive real-life experiences. Available on [Primobots Official Website](https://primobots.io/)
+A card battle game where users mint cards and battle with each other using attack and defense strategies. Health points determine the winner. Players can stake NFT cards for a chance to win others. Deployed on Several evm compatible chains and used IPFS for decentralized web storage.
