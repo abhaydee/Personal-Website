@@ -3,6 +3,7 @@ date: '2'
 title: 'PolkoWars'
 cover: './pokowars.png'
 external: 'https://github.com/abhaydee/PokoWars'
+cta: 'https://github.com/abhaydee/PokoWars'
 tech:
   - React,Tailwind
   - Solidity

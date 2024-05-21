@@ -3,7 +3,7 @@ date: '2022-08-30'
 title: 'Senior Full Stack Engineer'
 company: 'Softway Solutions'
 location: 'Bangalore, India'
-range: 'Apr - Aug 2021-2022'
+range: 'Apr 2021 - Aug 2022'
 url: 'https://www.softway.com/'
 ---
 

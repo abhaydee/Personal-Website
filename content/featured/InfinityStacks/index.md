@@ -3,6 +3,7 @@ date: '4'
 title: 'Build a Synthetic Asset Management Platform on Bitcoin and Stacks'
 cover: './InfinityStacks.jpeg'
 external: 'https://github.com/abhaydee/InfinityStack'
+cta: 'https://github.com/abhaydee/InfinityStack'
 tech:
   - NextJS
   - Stacks
