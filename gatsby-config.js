@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Abhay Deshpande',
     description:
-      'Abhay Deshpande is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
+      'Abhay Deshpande,a full-stack Developer from Boston, USA. With a love for Front-End, and bridging the gap between web2 and web3.',
     siteUrl: 'https://abhaydee.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@abhaycodes',
@@ -26,7 +26,7 @@ module.exports = {
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
         display: 'minimal-ui',
-        icon: 'src/images/logo.png',
+        icon: 'src/images/logo_new.png',
       },
     },
     `gatsby-plugin-offline`,
