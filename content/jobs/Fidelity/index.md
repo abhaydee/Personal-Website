@@ -1,6 +1,6 @@
 ---
 date: '2022-07-01'
-title: 'Software Engineer Coop'
+title: 'Software Engineer Intern'
 company: 'Fidelity Investments'
 location: 'Boston, MA'
 range: 'July 2023 - Dec 2023'
