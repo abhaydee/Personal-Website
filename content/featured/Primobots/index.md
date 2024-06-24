@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '1'
 title: 'Primobots 3D NFT'
 cover: './primobots.png'
 external: 'https://primobots.io/'

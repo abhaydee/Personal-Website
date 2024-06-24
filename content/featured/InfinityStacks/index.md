@@ -1,9 +1,10 @@
 ---
-date: '4'
+date: '2'
 title: 'Build a Synthetic Asset Management Platform on Bitcoin and Stacks'
 cover: './InfinityStacks.jpeg'
 external: 'https://github.com/abhaydee/InfinityStack'
 cta: 'https://github.com/abhaydee/InfinityStack'
+pitchLink: "https://vimeo.com/966321174"
 tech:
   - NextJS
   - Stacks

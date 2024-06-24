@@ -1,9 +1,10 @@
 ---
-date: '1'
+date: '4'
 title: 'Grow-Verse'
 cover: './Grow-Verse.jpeg'
-external: 'https://primobots.io/'
+external: 'https://github.com/abhaydee/Grow-Verse'
 cta: 'https://github.com/abhaydee/Grow-Verse'
+pitchLink: "https://vimeo.com/966319922"
 tech:
   - React
   - VeChain
