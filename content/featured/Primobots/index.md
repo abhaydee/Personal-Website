@@ -2,7 +2,6 @@
 date: '1'
 title: 'Primobots 3D NFT'
 cover: './primobots.png'
-external: 'https://primobots.io/'
 cta: 'https://primobots.io/'
 tech:
   - JS

@@ -1,8 +1,7 @@
 ---
-date: '5'
+date: '2'
 title: 'Vodacom SouthAfrica'
 cover: './vodacom.jpg'
-external: 'https://www.vodacom.co.za'
 cta: 'https://www.vodacom.co.za'
 tech:
   - NextJS

@@ -1,8 +1,8 @@
 ---
-date: '4'
+date: '5'
 title: 'Grow-Verse'
 cover: './Grow-Verse.jpeg'
-external: 'https://github.com/abhaydee/Grow-Verse'
+external: 'https://vimeo.com/966319922'
 cta: 'https://github.com/abhaydee/Grow-Verse'
 pitchLink: "https://vimeo.com/966319922"
 tech:

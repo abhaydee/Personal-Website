@@ -1,8 +1,8 @@
 ---
-date: '3'
+date: '4'
 title: 'Stackify-Assets'
 cover: './Stackify-Assets.jpeg'
-external: 'https://github.com/abhaydee/Stackify-Assets'
+external: 'https://youtube.com/watch?v=JWYqT9fl8QI'
 cta: 'https://github.com/abhaydee/Stackify-Assets'
 pitchLink: "https://youtube.com/watch?v=JWYqT9fl8QI"
 tech:

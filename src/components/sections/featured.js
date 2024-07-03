@@ -356,6 +356,7 @@ const Featured = () => {
           featuredProjects.map(({ node }, i) => {
             const { frontmatter, html } = node;
             const { external, title, tech, github, cover, cta , pitchLink } = frontmatter;
+            console.log("the pitch link", frontmatter)
             const image = getImage(cover);
 
             return (
@@ -387,8 +388,8 @@ const Featured = () => {
                           Learn More
                         </a>
                       )}
-                        {pitchLink && (
-                        <a href={cta} aria-label="Course Link" className="cta">
+                        {external && (
+                        <a href={external} aria-label="Course Link" className="cta">
                           Hackathon Pitch
                         </a>
                       )}

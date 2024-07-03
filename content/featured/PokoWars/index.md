@@ -1,5 +1,5 @@
 ---
-date: '5'
+date: '6'
 title: 'PolkoWars'
 cover: './pokowars.png'
 external: 'https://github.com/abhaydee/PokoWars'

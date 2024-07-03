@@ -1,8 +1,8 @@
 ---
-date: '2'
+date: '3'
 title: 'Build a Synthetic Asset Management Platform on Bitcoin and Stacks'
 cover: './InfinityStacks.jpeg'
-external: 'https://github.com/abhaydee/InfinityStack'
+external: 'https://vimeo.com/966321174'
 cta: 'https://github.com/abhaydee/InfinityStack'
 pitchLink: "https://vimeo.com/966321174"
 tech:
