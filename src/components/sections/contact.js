@@ -64,7 +64,7 @@ const Contact = () => {
         just want to say hi, I’ll try my best to get back to you!
       </p>
 
-      <a className="email-link" href={`mailto:deshpande.abh@northeastern.edu`}>
+      <a className="email-link" href={`mailto:hi@abhaydee.com`}>
         Say Hello
       </a>
     </StyledContactSection>
