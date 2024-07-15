@@ -6,7 +6,7 @@ module.exports = {
     description:
       'Abhay Deshpande,a full-stack Developer from Boston, USA. With a love for Front-End, and bridging the gap between web2 and web3.',
     siteUrl: 'https://abhaydee.com', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
+    image: '/abhay_deshpande.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@abhaycodes',
   },
   plugins: [
